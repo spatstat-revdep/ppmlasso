@@ -1,4 +1,4 @@
-import(spatstat.core, spatstat.geom, spatstat, methods, stats)
+import(spatstat.explore, spatstat.model, spatstat.geom, spatstat, methods, stats)
 importFrom("grDevices", "heat.colors")
 importFrom("graphics", "abline", "legend", "points")
 importFrom("utils", "flush.console")
